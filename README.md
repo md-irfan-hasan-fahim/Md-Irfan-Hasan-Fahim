@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Irfan Hasan Fahim</h1>
 <h3 align="center">Programmer | Infographer | Organizer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://cdn-icons-png.flaticon.com/512/2463/2463510.png">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/irfanhasanfahim" target="blank"><img src="https://img.shields.io/twitter/follow/irfanhasanfahim?logo=twitter&style=for-the-badge" alt="irfanhasanfahim" /></a> </p>
 
