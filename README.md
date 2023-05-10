@@ -35,9 +35,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-irfan-hasan-fahim&" alt="md-irfan-hasan-fahim" /></p>
 <br />
-<h2 align="left">🐍 GitHub Contribution</h2>
-<div align="center">
-     <img src="https://github.com/md-irfan-hasan-fahim/Md-Irfan-Hasan-Fahim/blob/output/github-contribution-grid-snake.svg?palette=github-dark" />
 
-</div>
 
